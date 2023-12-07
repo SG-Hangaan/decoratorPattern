@@ -1,6 +1,7 @@
 # Decorator Pattern
 
-
+Problem
+---------------------------------------------------------------------------------------------------------------------------------- 
 Cimb is a digital bank that offers GSave and UpSave savings accounts. As with a typical Savings Account, it contains accountNumber, accountName, and a balance for that account.
 
 <li> The typical savings account offers an interest rate of 1%. The benefits of the typical savings account is the same with the "Standard Savings Account" as compared to other banks.
@@ -10,8 +11,10 @@ Cimb is a digital bank that offers GSave and UpSave savings accounts. As with a 
 <li> The UpSave account offers the highest interest rate of 4.0%. Benefits include the "Standard Savings Account" plus "with Insurance".
 
 
+The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name : 
+----------------------------------------------------------------------------------------------------------------------------------
+<br> 
 <p align="center">
-  The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name : <br> <br> 
   <img src="https://github.com/SG-Hangaan/decoratorPattern/assets/127215110/e7d9ddb8-fd4e-42d7-8a2b-d0e38ce376ff"/>
 </p>
 
