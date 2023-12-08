@@ -41,7 +41,9 @@ Follow instructions. You are not allowed to insert other methods except what is 
 
 # Implementation of Decorator Pattern
 
-
+<p align="center">
+  <img src="https://github.com/SG-Hangaan/decoratorPattern/assets/127215110/4751c5b3-d964-4e59-b34a-501eaefce665"/>
+</p>
 
 # UML Class Diagram
 
