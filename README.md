@@ -48,5 +48,5 @@ Follow instructions. You are not allowed to insert other methods except what is 
 # UML Class Diagram
 
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/decoratorPattern/assets/127215110/74b22036-38f1-4ae1-a145-9853b87f3c9b"/>
+  <img src="https://github.com/SG-Hangaan/decoratorPattern/assets/127215110/779030cf-3961-4aeb-a269-993c8faed705"/>
 </p>
